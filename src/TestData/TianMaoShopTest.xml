@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testdata>
+    <vtmshop name="淘宝搜索商品">
+        <sxpath>//android.widget.TextView[@content-desc='搜索']</sxpath>
+        <sedit>com.taobao.taobao:id/searchEdit</sedit>
+        <scont>python</scont>
+        <sresult>com.taobao.taobao:id/title</sresult>
+    </vtmshop>
+</testdata>
